@@ -905,6 +905,7 @@ img {
   /*for mobile*/
   #main {
     background-color: #313131;
+    height: 2600px;
   }
 
   .header-top_left {
@@ -1111,6 +1112,10 @@ img {
     height: 25vw;
     margin-left: 10px;
   }
+  .counter-size1 {
+    width: 22vw;
+    height: 10vw;
+  }
 
   .bottom-container-box-bootstrrap {
     width: 30vw;
@@ -1118,9 +1123,17 @@ img {
     margin-left: 10px;
   }
 
+  .counterse2 {
+    margin-left: -11vw;
+  }
+
   .bottom-container-box-js {
     width: 30vw;
     height: 25vw;
+  }
+  .counter-size {
+    width: 22vw;
+    height: 10vw;
   }
 
   .box-html-logo img {
@@ -1167,9 +1180,18 @@ img {
   }
 
   .exp-box-p {
-    font-size: 7vw;
+    font-size: 4vw;
     margin-left: 12vw;
     margin-top: 5vh;
+  }
+
+  .exp-box-p2 {
+    font-size: 4vw;
+    margin-left: 6vw;
+    margin-top: 8vh;
+  }
+  .text-slider {
+    font-size: 4vw;
   }
 
   .p-box-bottom {
@@ -1211,5 +1233,19 @@ img {
   }
   .box-pro4 {
     margin-top: -12vh;
+  }
+  .end {
+    margin-top: 60px;
+    height: 23vh;
+  }
+  .ins img {
+    width: 3.5vw;
+    height: 5vh;
+    margin-top: -30px;
+  }
+  .in img {
+    width: 3.5vw;
+    height: 5vh;
+    margin-top: -70px;
   }
 }
