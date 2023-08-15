@@ -373,7 +373,7 @@
   display: flex;
   align-items: center;
   margin-top: 30px;
-  margin-left: -160px;
+  margin-left: 40px;
   font-size: 5vw;
 }
 
@@ -396,7 +396,7 @@
 .bottom-container-box-bootstrrap {
   width: 20vw;
   height: 15vw;
-  background-color: #814efc;
+  background-color: #28a4f7;
   border-radius: 8px;
   display: flex;
 }
@@ -1120,6 +1120,7 @@ img {
     width: 1vw;
     height: 3vw;
     margin-left: 15px;
+    background-color: #38cffe;
   }
 
   .bottom-container-box-bootstrrap {
