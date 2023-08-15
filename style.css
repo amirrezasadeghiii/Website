@@ -473,6 +473,9 @@
   background-color: #ffb633;
   margin: 0 0 280px 303px;
 }
+.academyit2 {
+  margin: 90.3vh 0 0 81vw;
+}
 .img-box {
   display: flex;
   flex-direction: row;
@@ -905,7 +908,7 @@ img {
   /*for mobile*/
   #main {
     background-color: #313131;
-    height: 2600px;
+    height: 2300px;
   }
 
   .header-top_left {
@@ -1067,7 +1070,7 @@ img {
 
   .bottom-container {
     width: 100%;
-    height: 130vw;
+    height: 145vw;
     padding-bottom: 1px;
   }
 
@@ -1087,7 +1090,6 @@ img {
   .bottom-container-p2 {
     margin-top: 40px;
     font-size: 4vw;
-
     margin-left: 12vw;
   }
 
@@ -1098,7 +1100,6 @@ img {
 
   .bottom-container-box2 {
     margin-top: 20px;
-
     padding: 0 12vw;
   }
 
@@ -1106,15 +1107,19 @@ img {
     width: 30vw;
     height: 25vw;
   }
-
+  .counter {
+    margin-left: -18px;
+    margin-top: 10px;
+  }
   .bottom-container-box-css {
     width: 30vw;
     height: 25vw;
     margin-left: 10px;
   }
   .counter-size1 {
-    width: 22vw;
-    height: 10vw;
+    width: 1vw;
+    height: 3vw;
+    margin-left: 15px;
   }
 
   .bottom-container-box-bootstrrap {
@@ -1132,34 +1137,35 @@ img {
     height: 25vw;
   }
   .counter-size {
-    width: 22vw;
-    height: 10vw;
+    width: 1vw;
+    height: 3vw;
+    margin-left: 20px;
   }
 
   .box-html-logo img {
-    width: 8vw;
-    height: 8vh;
-    margin-top: 10px;
-    margin-left: 10px;
+    width: 6vw;
+    height: 6vh;
+    margin-top: 1px;
+    margin-left: 5px;
   }
 
   .box-css-logo img {
-    width: 8vw;
-    height: 8vh;
-    margin-top: 10px;
-    margin-left: 10px;
+    width: 4vw;
+    height: 4vh;
+    margin-top: 6px;
+    margin-left: 5px;
   }
 
   .box-js-logo img {
     width: 6vw;
     height: 6vh;
-    margin-top: 10px;
-    margin-left: 10px;
+    margin-top: 1px;
+    margin-left: 5px;
   }
 
   .box-bootstrrap-logo img {
     width: 6vw;
-    height: 6vh;
+    height: 3vh;
     margin-top: 8px;
     margin-left: 5px;
   }
@@ -1167,7 +1173,7 @@ img {
   .box-b-head {
     font-size: 2.7vw;
 
-    margin: 20px 0 0 6px;
+    margin: 15px 0 0 6px;
   }
 
   /***************************************/
@@ -1190,14 +1196,25 @@ img {
     margin-left: 6vw;
     margin-top: 8vh;
   }
+  .slider {
+    height: 47vh;
+  }
   .text-slider {
     font-size: 4vw;
+    margin-top: -2vh;
+  }
+  .academyit2 {
+    margin: 212px 0 0 280px;
+  }
+  .img1 {
+    width: 100%;
+    height: 200px;
+    margin-top: 10px;
   }
 
   .p-box-bottom {
     width: 15vw;
     height: 2px;
-
     margin: 0 0 5vh 12vw;
   }
   .img-box {
@@ -1235,17 +1252,18 @@ img {
     margin-top: -12vh;
   }
   .end {
-    margin-top: 60px;
-    height: 23vh;
+    margin-top: 1px;
+    height: 17vh;
   }
   .ins img {
-    width: 3.5vw;
+    width: 8vw;
     height: 5vh;
-    margin-top: -30px;
+    margin-top: -8px;
+    margin-left: 60px;
   }
   .in img {
-    width: 3.5vw;
+    width: 8vw;
     height: 5vh;
-    margin-top: -70px;
+    margin-top: -58px;
   }
 }
